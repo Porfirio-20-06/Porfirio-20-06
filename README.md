@@ -82,8 +82,8 @@ Meu objetivo é conquistar minha primeira oportunidade na área de Tecnologia, o
 📧 Email: luisporfirio2006@gmail.com
 
 💼 LinkedIn:
-https://www.linkedin.com/in/luis-porf%C3%ADrio-392521302
-
+www.linkedin.com/in/
+porfirio2006
 ---
 
 <p align="center">
