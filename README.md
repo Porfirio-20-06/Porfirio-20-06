@@ -20,7 +20,7 @@ Busco minha primeira oportunidade na área de Tecnologia da Informação, onde p
 - SQL
 - Git
 - GitHub
-- API Mercado Pago
+- API
 
 ## 🚀 Projeto em destaque
 
