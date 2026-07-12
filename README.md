@@ -1,94 +1,40 @@
-<h1 align="center">Olá! 👋 Eu sou Luis Porfírio</h1>
+# Olá! Eu sou o Luis Henrique Porfirio de Moraes 👋
 
-<p align="center">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-💻 Desenvolvedor em formação <br>
-🚀 Em busca da primeira oportunidade em Tecnologia
-</p>
+🎓 Técnico em Desenvolvimento de Sistemas pela Etec Sales Gomes.
 
----
+Tenho interesse em Desenvolvimento Web, Desenvolvimento de Sistemas e Suporte Técnico. Busco minha primeira oportunidade na área de Tecnologia da Informação, onde possa aplicar meus conhecimentos, evoluir profissionalmente e contribuir para o desenvolvimento de soluções.
 
-## 👩‍💻 Sobre mim
+## 💻 Tecnologias
 
-Sou estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e resolução de problemas.
-
-Atualmente dedico meu tempo ao desenvolvimento de projetos práticos, buscando evoluir constantemente minhas habilidades em programação, desenvolvimento web e lógica.
-
-Meu objetivo é conquistar minha primeira oportunidade na área de Tecnologia, onde eu possa aprender, colaborar e crescer profissionalmente.
-
----
-
-## 🚀 Tecnologias que estudo
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,vscode" />
-
-</p>
-
----
-
-## 📚 Atualmente estudando
-
+- PHP
+- JavaScript
 - HTML5
 - CSS3
-- JavaScript
-- Python
-- Git e GitHub
-- Lógica de Programação
-- Desenvolvimento Web
+- SQL
+- Git
+- GitHub
+- API Mercado Pago
 
----
+## 🚀 Projeto em destaque
 
-## 📂 Projetos
+### E-commerce para Artesã de Amigurumis (TCC)
 
-🔹 Landing Page Responsiva
+Projeto desenvolvido em equipe para uma cliente real, com o objetivo de criar um e-commerce próprio para venda de amigurumis, reduzindo a dependência de marketplaces e os custos com taxas da plataforma Elo7.
 
-- HTML
-- CSS
-- JavaScript
+**Principais atividades:**
+- Levantamento de requisitos junto ao cliente;
+- Desenvolvimento do front-end com HTML, CSS e JavaScript;
+- Desenvolvimento do back-end em PHP;
+- Modelagem e manipulação de banco de dados SQL;
+- Integração com a API do Mercado Pago;
+- Controle de versão utilizando Git.
 
-🔹 Exercícios de JavaScript
+## 📚 Atualmente
 
-- Arrays
-- Objetos
-- Funções
-- DOM
+Atualmente estou retomando meus estudos em desenvolvimento de software, revisando tecnologias utilizadas durante minha formação e desenvolvendo novos projetos para aprimorar minhas habilidades.
 
-🔹 Projetos de estudo
+## 📫 Contato
 
-- Interfaces responsivas
-- Formulários
-- Manipulação do DOM
+📧 E-mail: **luisporfirio2006@gmail.com**
 
-*(Novos projetos serão adicionados conforme minha evolução.)*
-
----
-
-## 🎯 Objetivos
-
-✔ Desenvolver projetos cada vez mais completos
-
-✔ Aprender boas práticas de programação
-
-✔ Contribuir com projetos reais
-
-✔ Conquistar minha primeira oportunidade em Tecnologia
-
----
-
-## 🌎 Contato
-
-📧 Email: luisporfirio2006@gmail.com
-
-💼 LinkedIn:
-www.linkedin.com/in/porfirio2006
----
-
-<p align="center">
-
-Sempre aberto a oportunidades de estágio, trainee e posições de nível inicial em Tecnologia.
-
-Obrigado pela visita! 🚀
-
-</p>
+💼 LinkedIn: **linkedin.com/in/porfirio2006**
