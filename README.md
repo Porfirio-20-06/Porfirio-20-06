@@ -19,7 +19,7 @@ Busco minha primeira oportunidade na área de Tecnologia da Informação, onde p
 - CSS3
 - SQL
 - Git
-- GitHub
+- Python
 - API
 
 ## 🚀 Projeto em destaque
