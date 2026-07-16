@@ -2,7 +2,7 @@
 
 🎓 Técnico em Desenvolvimento de Sistemas pela Etec Sales Gomes.
 
-Busco minha primeira oportunidade na área de Tecnologia da Informação, onde possa aplicar meus conhecimentos, evoluir profissionalmente e contribuir para o desenvolvimento de soluções. Tenho interesse em atuar como porta de entrada nas seguintes áreas:
+Busco oportunidade na área de Tecnologia da Informação, onde possa aplicar meus conhecimentos, evoluir profissionalmente e contribuir para o desenvolvimento de soluções. Tenho interesse em atuar como porta de entrada nas seguintes áreas:
 
 - 🌐 **Desenvolvimento Web** (Front-end e Back-end)
 - 🖥️ **Desenvolvimento de Sistemas**
