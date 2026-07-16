@@ -19,7 +19,7 @@ Busco oportunidade na área de Tecnologia da Informação, onde possa aplicar me
 - CSS3
 - SQL
 - Git
-- Python
+- Angular
 - API
 
 ## 🚀 Projeto em destaque
